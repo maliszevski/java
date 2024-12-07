@@ -66,6 +66,16 @@ public class Main {
         }
 
 
+        
+        //9
+        number = scanner.nextInt();
+        if (number % 2 == 0) {
+            System.out.println("liczba parzysta");
+        } else {
+            System.out.println("liczba nieparzysta");
+        }
+
+
 
 
     }
